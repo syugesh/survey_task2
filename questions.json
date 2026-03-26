@@ -1,0 +1,48 @@
+{
+   "Employee Feedback": {
+
+      "General questions": {
+
+          "How was the internship": {
+
+              "Description" : "Rate your performance last 2months",
+
+              "Answers" : [
+
+                  "Average",
+
+                  "Good",
+
+                  "Satisfied"
+
+              ]
+
+          },
+
+          "Work life balance": {
+
+              "Description" : "Can you able to manage work life",
+
+              "Answers" : [
+
+                  "Yes",
+
+                  "No"
+
+              ]
+          },
+          
+          "Communication rating": {
+            "Description" : "How was your communication" ,
+            "Answers" : [
+                "Average",
+                "Moderate",
+                "Good"
+
+            ]
+            
+            
+          }
+      }
+   }
+  }
