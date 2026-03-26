@@ -29,13 +29,14 @@ Run the app
 python app.py
 App will run on:
 http://localhost:8080
+
 API Endpoint
 Create Survey
 curl -X POST http://localhost:8080/create-survey \
 -H "Content-Type: application/json" \
 -d @questions.json
 
-Response
+Response:
 If everything works:
 {
   "survey_link": "your_generated_link"
