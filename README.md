@@ -25,14 +25,14 @@ Environment variable
 Create a .env file in the project folder:
 SM_TOKEN=your_token_here
 
-Run the app
-python app.py
+Run the app:
+python appname.py
 App will run on:
 http://localhost:8080
 
 API Endpoint
-Create Survey
-curl -X POST http://localhost:8080/create-survey \
+Create Survey:
+curl -X POST http://ip address:8080/create-survey \
 -H "Content-Type: application/json" \
 -d @questions.json
 
