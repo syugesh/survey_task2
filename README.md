@@ -46,10 +46,6 @@ If something fails:
   "server error during survey creation"
 }
 
-requirements.txt
-Flask
-requests
-python-dotenv
 
 Notes
 * You need a valid SurveyMonkey API token
